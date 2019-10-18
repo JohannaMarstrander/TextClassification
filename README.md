@@ -1,2 +1,2 @@
 # TextClassification
-Implementation of a neural network for text classification with minimal use of libraries.
+Implementation from scratch of a neural network for text classification. 
